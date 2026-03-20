@@ -1,7 +1,7 @@
-# 📊 Identifying R$5.3M in At-Risk Revenue
-## E-Commerce Customer Churn Prediction & Customer Lifetime Value Analysis
+# **Identifying R$5.3M in At-Risk Revenue**
+## **E-Commerce Customer Churn Prediction & Customer Lifetime Value Analysis**
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?logo=kaggle)](YOUR_KAGGLE_NOTEBOOK_LINK_HERE)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/armandjunior/full-cycle-analysis-e-commerce-churn-prediction/)
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
